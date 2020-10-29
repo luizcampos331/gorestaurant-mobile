@@ -28,7 +28,7 @@ Aplicação básica para realizar pedidos em um restaurante.
 - Json-server
 
 ## :dart: Objetivo
-- Lista Categorias
+- Listar Categorias
 - Listar pratos
 - Filtrar pratos por nome ou categoria
 - Realizar pedido
